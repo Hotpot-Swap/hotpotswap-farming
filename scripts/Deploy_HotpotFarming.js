@@ -9,7 +9,7 @@ async function main() {
 
   // Parameters
   const hotpotPerBlock = "40000000000000000000"; // 100 HOTPOT per Block (ETH)
-  const hotpotBlock = "10031509";
+  const hotpotBlock = "10031542";
   console.log('hotpot: ', contracts.hotpot);
   console.log('dev: ', contracts.dev);
 

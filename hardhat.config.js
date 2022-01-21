@@ -203,10 +203,10 @@ if (INFURA_API_KEY != undefined && PRIVATE_KEY != undefined) {
     };
 }
 
-if (ETH_KEY != undefined) {
-    module.exports.etherscan = {
-        // Your API key for Etherscan/BscScan
-        apiKey: `${process.env.BSC_KEY}`
-    };
-}
+// if (ETH_KEY != undefined) {
+//     module.exports.etherscan = {
+//         // Your API key for Etherscan/BscScan
+//         apiKey: `${process.env.BSC_KEY}`
+//     };
+// }
 
